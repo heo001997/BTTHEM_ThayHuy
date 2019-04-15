@@ -2,7 +2,7 @@
 
 Em nghĩ ra 3 hướng có thể giải quyết được bài toán, bài em nộp là hướng rắc rối nhất (theo em nghĩ) nhưng cũng tiết kiệm bộ nhớ và tối ưu tốc độ chạy nhất (em nghĩ vậy ạ).
 
-Ý tưởng là em chỉ duyệt phần tử hiện tại và phần tử trước nó, không duyệt đến phần tử sau nó, chỉ lưu lại kết quả (boolean) duyệt cũ  (ngay trước), rồi dựa vào đó để phân loại phần tử sau, nhét nó lại vào linkedlist, rồi in ra như thường.
+Ý tưởng là em chỉ duyệt phần tử hiện tại và phần tử sau nó, không duyệt đến phần tử trước nó, chỉ lưu lại kết quả (boolean) duyệt cũ  (ngay trước), rồi dựa vào đó để phân loại phần tử sau, nhét nó lại vào linkedlist, rồi in ra như thường.
 
 ## Để tiện cho việc test, em đã cho file Input có dạng như dưới:
 
